@@ -16,5 +16,5 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           owner: kongspark
-          base: master
-          head: master
+          base: beta
+          head: beta
